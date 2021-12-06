@@ -1,0 +1,27 @@
+D:\Політех\4.1\Кривий\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.exe
+D:\Політех\4.1\Кривий\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.deps.json
+D:\Політех\4.1\Кривий\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.runtimeconfig.json
+D:\Політех\4.1\Кривий\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.runtimeconfig.dev.json
+D:\Політех\4.1\Кривий\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.dll
+D:\Політех\4.1\Кривий\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.pdb
+D:\Політех\4.1\Кривий\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.csprojAssemblyReference.cache
+D:\Політех\4.1\Кривий\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.AssemblyInfoInputs.cache
+D:\Політех\4.1\Кривий\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.AssemblyInfo.cs
+D:\Політех\4.1\Кривий\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.csproj.CoreCompileInputs.cache
+D:\Політех\4.1\Кривий\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.dll
+D:\Політех\4.1\Кривий\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.pdb
+D:\Політех\4.1\Кривий\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.genruntimeconfig.cache
+D:\ЛП\4 курс 1 семестр\Теорія прийняття рішень\ЛР 5\Lab5\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.exe
+D:\ЛП\4 курс 1 семестр\Теорія прийняття рішень\ЛР 5\Lab5\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.deps.json
+D:\ЛП\4 курс 1 семестр\Теорія прийняття рішень\ЛР 5\Lab5\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.runtimeconfig.json
+D:\ЛП\4 курс 1 семестр\Теорія прийняття рішень\ЛР 5\Lab5\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.runtimeconfig.dev.json
+D:\ЛП\4 курс 1 семестр\Теорія прийняття рішень\ЛР 5\Lab5\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.dll
+D:\ЛП\4 курс 1 семестр\Теорія прийняття рішень\ЛР 5\Lab5\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.pdb
+D:\ЛП\4 курс 1 семестр\Теорія прийняття рішень\ЛР 5\Lab5\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.csproj.AssemblyReference.cache
+D:\ЛП\4 курс 1 семестр\Теорія прийняття рішень\ЛР 5\Lab5\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЛП\4 курс 1 семестр\Теорія прийняття рішень\ЛР 5\Lab5\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.AssemblyInfoInputs.cache
+D:\ЛП\4 курс 1 семестр\Теорія прийняття рішень\ЛР 5\Lab5\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.AssemblyInfo.cs
+D:\ЛП\4 курс 1 семестр\Теорія прийняття рішень\ЛР 5\Lab5\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.csproj.CoreCompileInputs.cache
+D:\ЛП\4 курс 1 семестр\Теорія прийняття рішень\ЛР 5\Lab5\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.dll
+D:\ЛП\4 курс 1 семестр\Теорія прийняття рішень\ЛР 5\Lab5\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.pdb
+D:\ЛП\4 курс 1 семестр\Теорія прийняття рішень\ЛР 5\Lab5\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.genruntimeconfig.cache
